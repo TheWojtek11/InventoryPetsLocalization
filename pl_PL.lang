@@ -1,0 +1,76 @@
+item.petGhast.name=Zwierzak Ghast
+item.petWither.name=Zwierzak Wither
+item.petCreeper.name=Zwierzak Wither
+item.petEnderman.name=Zwierzak Enderman
+item.petIronGolem.name=Zwierzak Żelazny Golem
+item.petSnowGolem.name=Zwierzak Balwan
+item.petSpider.name=Zwierzak Pajak
+item.petMagmaCube.name=Zwierzak Kostka Magmy
+item.petBlaze.name=Zwierzak Plomyk
+
+item.petSheep.name=Zwierzak Owca
+item.petCow.name=Zwierzak Krowa
+item.petChicken.name=Zwierzak Kurczak
+item.petPig.name=Zwierzak Swinia
+item.petSquid.name=Zwierzak Kalamarnica
+item.petOcelot.name=Zwierzak Ocelot
+
+item.petFurnace.name=Zwierzak Piec
+item.petEnchantingTable.name=Zwierzak Stól do Zakleć
+item.petCraftingTable.name=Zwierzak Stól Rzemyslniczy
+item.petChest.name=Zwierzak Skrzynia
+item.petDoubleChest.name=Zwierzak Podwójna Skrzynia
+item.petBed.name=Zwierzak Lóżko
+item.petJukebox.name=Zwierzak Szafa Grajaca
+item.petAnvil.name=Zwierzak Kowadlo
+item.petBrewingStand.name=Zwierzak Statyw Alchemiczny
+item.petNetherPortal.name=Zwierzak Netherowy Portal
+
+item.petPingot.name=Zwierzak Pingot
+item.petMickerson.name=Mickerson
+item.petPurpliciousCow.name=Zwierzak Krowa Purpliciousowa
+item.petQuantumCrystalMonster.name=Zwierzak Kwantowy Krysztal Potwór
+item.petBanana.name=Zwierzak Banan
+
+item.petCloud.name=Zwierzak Chmórka
+item.petBlackHole.name=Zwierzak Czarna Dziura
+item.petPufferfish.name=Zwierzak Rozdymka
+item.petSlime.name=Zwierzak Slime
+
+item.petShield.name=Zwierzak Tarcza
+item.petMoon.name=Zwierzak Ksieżyc
+item.petHeart.name=Zwierzak Serce
+item.petDubstep.name=Dupstepowy Zwierzak
+item.petSponge.name=Zwierzak Gabka
+item.petBanana.name=Zwierzak Banan
+item.petBlaze.name=Zwierzak Plomyk
+item.petEnderChest.name=Zwierzak Skrzynia Kresu
+item.petMooshroom.name=Zwierzak Mooshroom
+item.petLoot.name=Zwierzak Lup
+item.pingot.finds=Pingot znalazl 
+
+item.diamondNugget.name=Diamentowy Samorodek
+item.obsidianNugget.name=Obsidianowy Samorodek
+item.coalNugget.name=Samorodek Wegla
+item.emeraldNugget.name=Szmaragdowy Samorodek
+item.ironNugget.name=Żelazny Samorodek
+item.enderNugget.name=Samorodek Kresu
+item.lapisNugget.name=Lapisowy Samorodek
+
+tile.cloudblock.name=Blok Chmury
+tile.cloudspawn.name=Spawner Chmur
+tile.sandblock.name=Piasek
+tile.sandspawn.name=Spawner Piasku
+tile.stoneblock.name=Kamień
+tile.stonespawn.name=Spawner Kamienia
+tile.bed.notHere=Nie możesz tutaj spać
+
+entity.InventoryPets.MiniQuantumBlaze.name=Kwantowy Mini Plomyk
+entity.InventoryPets.MiniQuantumEnderman.name=Kwantonowy Mini Enderman
+
+container.petnamer=Nazywacz Zwierzaków
+gui.accept=Akceptuj
+item.netherportal.noreturn   =Nie znaleziono ostatniego punktu powrotu, powracam do ostatniego punktu spawnu
+item.chestpet.toomany        =Nie możesz użyć wiecej niż jednego Zwierzaka Skrzynia na raz w slotach 1-9
+item.doublechestpet.toomany  =Nie możesz użyć wiecej niż jednego Zwierzaka Podwójna Skrzynia na raz w slotach 1-9
+inventorypets.update.download=["Zaktualizuj na najnowsza wersje na [",{"text":"CurseForge","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click to show latest files","color":"gold"}},"clickEvent":{"action":"open_url","value":"http://minecraft.curseforge.com/mc-mods/229380-inventory-pets/files"}},"]"]
